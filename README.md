@@ -23,9 +23,9 @@ Fully runs in the browser console (no HTML required)
 
 ## 📁 Project Structure
 ```
+├── README.md
 ├── index.html
-├── quiz.js
-└── README.md
+└── quiz.js
 ```
 ---
 
